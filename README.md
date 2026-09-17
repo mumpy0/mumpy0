@@ -1,3 +1,12 @@
+```
+                                                     ____ 
+   ____ ___   __  __   ____ ___     ____    __  __  / __ \
+  / __ `__ \ / / / /  / __ `__ \   / __ \  / / / / / / / /
+ / / / / / // /_/ /  / / / / / /  / /_/ / / /_/ / / /_/ / 
+/_/ /_/ /_/ \__,_/  /_/ /_/ /_/  / .___/  \__, /  \____/  
+                                /_/      /____/           
+```
+
 <h1 align="center">Hi, I'm mumpy0 👋</h1>
 <h3 align="center">CSE Student | Cybersecurity Specialization | Learning DevSecOps</h3>
 
