@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🌈 About Me
+## About Me
 
 ```yaml
 student: true
