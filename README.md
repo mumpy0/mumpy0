@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF512F&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=HTML+CSS+paglu+learning+DevSecOps+%F0%9F%94%90;Breaking+things+to+understand+them+%E2%9A%A1;Securing+the+cloud%2C+one+VPC+at+a+time+%E2%98%81%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=FF512F&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=HTML+CSS+paglu+learning+DevSecOps+%F0%9F%94%90;Breaking+things+to+understand+them+%E2%9A%A1;Securing+the+cloud%2C+one+VPC+at+a+time+%E2%98%81%EF%B8%8F" />
 
 </div>
 
